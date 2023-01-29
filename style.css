@@ -1,0 +1,31 @@
+.filter2:hover{ 
+    filter: blur(1.5px);
+}
+.filter3:hover{
+    filter: blur(3px);
+}
+.filter4:hover{
+    filter: grayscale(50%);
+}
+.filter5:hover{
+    filter: brightness(150%);
+}
+.filter6:hover{
+    filter: contrast(150%);
+}
+.filter7:hover{
+    filter: hue-rotate(180deg);
+}
+.filter8:hover{
+    filter: invert(100%);
+}
+.filter9:hover{
+    filter: opacity(0%);
+}
+span{
+    font-size: 30px;
+    color: red;
+}
+img{
+    transition: all 1s ease;
+}
